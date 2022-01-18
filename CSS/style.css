@@ -1,0 +1,26 @@
+h3 {
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 50%;
+    width: 400px;
+    height: 200px;
+    padding: 25px;
+}
+
+.row {
+    width: 400px;
+    padding-left: 25px;
+}
+
+#app {
+    margin-left: 38%;
+    margin-top: 10%;
+    border-style: groove;
+    border-width: 10px;
+    padding: 20px;
+    width: 25%;
+}
+
+h1 {
+    text-align: center;
+}
